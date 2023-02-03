@@ -6,10 +6,10 @@
 ### <div align="center">I'm Dawid, a junior developer 👨‍💻 studying and working on my own projects since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Taxxed](https://github.com/dxrgrabowski/Taxxed) - web application showing tax information based on the provided data  
+- 🔭 I’m currently working on [Taxxed](https://github.com/dxrgrabowski/Taxxed) - web application showing tax information based on the provided data
   
 
-- 🌱 I’m currently learning JavaScript, CSS, HTML5  
+- 🌱 I’m currently expanding my C++ knowledge
   
 
 <br/>  
