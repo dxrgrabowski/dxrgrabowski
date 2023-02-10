@@ -6,7 +6,7 @@
 ### <div align="center">I'm Dawid, a junior developer 👨‍💻 studying and working on my own projects since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Taxxed](https://github.com/dxrgrabowski/Taxxed) - web application showing tax information based on the provided data
+- 🔭 I’m currently working on [RayCasting](https://github.com/dxrgrabowski/Raycasting) - a c++ implementation of raycasting using SFML and ImGUI
   
 
 - 🌱 I’m currently expanding my C++ knowledge
