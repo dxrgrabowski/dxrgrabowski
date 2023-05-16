@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Dawid, a junior developer 👨‍💻 studying and working on my own projects since 2021 🚀</div>  
+### <div align="center">I'm Dawid, a C/C++ junior software engineer 👨‍💻 studying and working on my own projects since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on [RayCasting](https://github.com/dxrgrabowski/Raycasting) - a c++ implementation of raycasting using SFML and ImGUI
