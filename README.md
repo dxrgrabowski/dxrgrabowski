@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
+
+   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="center" style="width: 80%" />
 </div>  
   
 
@@ -17,7 +18,7 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
+ 
 
 
 ### I know something  
@@ -74,8 +75,10 @@
 
 
 ## Github Stats  
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxrgrabowski&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxrgrabowski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+  
 
 
 
