@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Dawid, a C/C++ junior software engineer 👨‍💻 studying and working on my own projects since 2021 🚀</div>  
+### <div align="center">I'm Dawid, a Linux C/C++ software engineer 👨‍💻 studying and working on my own projects since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on [Statystix](https://github.com/dxrgrabowski/Statystix) - a C++ QT statistical calculator, generator and visualiser.
