@@ -7,10 +7,11 @@
 ### <div align="center">I'm Dawid, a Linux C/C++ software engineer 👨‍💻 studying and working on my own projects since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Statystix](https://github.com/dxrgrabowski/Statystix) - a C++ QT statistical calculator, generator and visualiser.
-  
+- 🔭 Currently, I'm engaged in projects involving UAV and Ground Control Systems, spanning both civilian and military industries.
 
-- 🌱 I’m currently expanding my C/C++ and linux knowledge
+- 🌱 Actively broadening my expertise in C/C++ programming and Linux systems.
+
+- 🚀 Enthusiastically grinding LeetCode challenges with C++ solutions. 
   
 
 <br/>  
