@@ -57,7 +57,7 @@
 ### In the future.......  
 <div align="center">  
    <a href="https://conan.io/" target="_blank"><img style="margin: 10px"src="https://avatars.githubusercontent.com/u/15212165?s=200&v=4" alt="Conan" height="50" /></a>
-   <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>
+   <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/121px-Rust_programming_language_black_logo.svg.png" alt="Keras" height="50" /></a>
    <a href="https://protobuf.dev/" target="_blank"><img style="margin: 10px" src="https://blog.basyskom.com/wp-content/uploads/2020/04/protobuf_google_developer-300x228.png" alt="Proto Buf" height="50" /></a>
    <a href="https://opencv.org/" target="_blank"><img style="margin: 10px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/180px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV" height="50" /></a>
    <a href="https://tensorflow.org/" target="_blank"><img style="margin: 10px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/220px-TensorFlow_logo.svg.png" alt="TensorFlow" height="50" /></a>
