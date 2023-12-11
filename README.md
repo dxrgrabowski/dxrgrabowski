@@ -72,22 +72,13 @@
 
 
 ## Github Stats  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxrgrabowski&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxrgrabowski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-  
-
+<div align="center">  
+<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+</div>
 
 
-<br/>  
-
-
-  
 
 <br/>  
-
-<div align="center"></div>
-<br />
 
 ----
 <div align="center">Pattern created with <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
