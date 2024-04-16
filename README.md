@@ -7,9 +7,9 @@
 ### <div align="center">I'm Dawid, a Linux C/C++ software engineer 👨‍💻 studying and working on my own projects since 2021 🚀</div>  
   
 
-- 🔭 Currently, I'm engaged in projects involving UAV and Ground Control Systems, spanning both civilian and military industries.
+- 🔭 Engaged in projects involving UAV and Ground Control Systems, spanning both civilian and military industries.
 
-- 🌱 Actively broadening my expertise in C/C++ programming and Linux systems.
+- 🌱 Actively broadening expertise in C/C++ and Linux systems.
 
 - 🚀 Enthusiastically grinding LeetCode challenges with C++ solutions. 
   
