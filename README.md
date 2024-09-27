@@ -12,7 +12,8 @@
 - 🌱 Actively broadening expertise in C/C++, Rust and Linux systems.
 
 - 🚀 Enthusiastically grinding LeetCode challenges with C++ solutions. 
-  
+
+- 👨🏼‍💻 Currently off-hours working on technical [blog](https://dxrgrabowski.github.io/)
 
 <br/>  
 
