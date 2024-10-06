@@ -79,7 +79,7 @@
 
 ## Github Stats  
 <div align="center">  
-<img src="https://myreadme.vercel.app/api/embed/dxrgrabowski?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-stats.vercel.app/api?username=dxrgrabowski&show_icons=true&bg_color=00000000" alt="github stats" />
 </div>
 
 
