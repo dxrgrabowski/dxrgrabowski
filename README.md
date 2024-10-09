@@ -13,7 +13,7 @@
 
 - 🚀 Enthusiastically grinding LeetCode challenges with C++ solutions. 
 
-- 👨🏼‍💻 Currently off-hours working on technical [blog](https://dxrgrabowski.github.io/)
+- 👨🏼‍💻 Currently off-hours working on Low-level Tech [blog](https://dxrgrabowski.github.io/)
 
 <br/>  
 
